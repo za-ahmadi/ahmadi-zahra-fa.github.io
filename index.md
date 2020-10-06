@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<img src="https://avatars1.githubusercontent.com/u/72106159?s=400&u=6af666db01199f51b5d99b7ec0bcbe92e165e87b&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/za-ahmadi/ahmadi-zahra-fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+###درمورد من
+من زهرا احمدی پردستی هستم ، من در دانشگاه پیام نور مهندسی کامپیوتر می خوانم. من می خواهم هر روز چیزهای جدید یاد بگیرم.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ### اطلاعات شخصی
+- نام: زهرا 
+- نام خانوادگی: احمدو پردازستی
+- تاریخ تولد: 1997/01/07
+- وضعیت شغلی: شاغل نیستم
+- وضعیت ازدواج: مجرد
 
-### Markdown
+### مهارت
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- نقاش
 
-```markdown
-Syntax highlighted code block
+- شبکه
 
-# Header 1
-## Header 2
-### Header 3
+### زبان ها
 
-- Bulleted
-- List
+- انگلیسی: ضعیف 
 
-1. Numbered
-2. List
+- فارسی : کاملا مسلط
 
-**Bold** and _Italic_ and `Code` text
+### مجوزها و مجوزها
 
-[Link](url) and ![Image](src)
-```
+- نقاش : institutionsموسسات آموزشی
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Network +: خود خوان
 
-### Jekyll Themes
+### تجربه کاری
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/za-ahmadi/ahmadi-zahra-fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- نقاش: من 8 سال است که در زمینه نقاشی کار می کنم و نمایشگاه نقاشی داشتم
 
-### Support or Contact
+پروژه ###
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+هیچ چیزی
+
+### حسابهای دیگر
+
+هیچ چیزی
+
+English Resume:<a href="https://za-ahmadi.github.io/ahmadi-zahra.github.io/"> Resume </a>
