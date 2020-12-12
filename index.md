@@ -52,4 +52,4 @@
 
 هیچ چیزی
 
-English Resume:<a href="https://za-ahmadi.github.io/ahmadi-zahra.github.io/"> Resume </a>
+English Resume:<a href="https://za-ahmadi.github.io/"> Resume </a>
